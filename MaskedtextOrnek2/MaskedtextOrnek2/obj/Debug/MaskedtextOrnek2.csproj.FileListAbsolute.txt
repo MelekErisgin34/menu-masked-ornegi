@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\melek\MaskedtextOrnek2\MaskedtextOrnek2\bin\Debug\MaskedtextOrnek2.exe.config
+C:\Users\User\Desktop\KORUMASIZ\melek\MaskedtextOrnek2\MaskedtextOrnek2\bin\Debug\MaskedtextOrnek2.exe
+C:\Users\User\Desktop\KORUMASIZ\melek\MaskedtextOrnek2\MaskedtextOrnek2\bin\Debug\MaskedtextOrnek2.pdb
+C:\Users\User\Desktop\KORUMASIZ\melek\MaskedtextOrnek2\MaskedtextOrnek2\obj\Debug\MaskedtextOrnek2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\melek\MaskedtextOrnek2\MaskedtextOrnek2\obj\Debug\MaskedtextOrnek2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\melek\MaskedtextOrnek2\MaskedtextOrnek2\obj\Debug\MaskedtextOrnek2.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\melek\MaskedtextOrnek2\MaskedtextOrnek2\obj\Debug\MaskedtextOrnek2.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\melek\MaskedtextOrnek2\MaskedtextOrnek2\obj\Debug\MaskedtextOrnek2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\melek\MaskedtextOrnek2\MaskedtextOrnek2\obj\Debug\MaskedtextOrnek2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\melek\MaskedtextOrnek2\MaskedtextOrnek2\obj\Debug\MaskedtextOrnek2.exe
+C:\Users\User\Desktop\KORUMASIZ\melek\MaskedtextOrnek2\MaskedtextOrnek2\obj\Debug\MaskedtextOrnek2.pdb

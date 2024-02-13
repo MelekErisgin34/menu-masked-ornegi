@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskedtextOrnek2", "MaskedtextOrnek2\MaskedtextOrnek2.csproj", "{ADC60048-B0F5-43B5-990B-D54E84CAB543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC60048-B0F5-43B5-990B-D54E84CAB543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC60048-B0F5-43B5-990B-D54E84CAB543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC60048-B0F5-43B5-990B-D54E84CAB543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC60048-B0F5-43B5-990B-D54E84CAB543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E109EFF4-38A7-4259-AEB1-E29DC22B5DC3}
+	EndGlobalSection
+EndGlobal
